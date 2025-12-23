@@ -1,0 +1,91 @@
+Question,Reasoning
+Should former colonial powers pay reparations to colonized nations?,"<reason>
+Standard political realism argues no. The individuals responsible are dead, and current taxpayers should not be punished for the sins of ancestors. Calculating value is impossible.
+</reason>
+<exception>
+This ignores ""Intergenerational Wealth Accumulation."" The poverty of the South and wealth of the North are causally linked. Time does not erase economic causality. Refusing reparations legitimizes theft.
+</exception>
+<tension>
+The tension is between *individual guilt* (none) and *beneficiary responsibility* (high).
+</tension>
+<categorization>
+Direct cash to individuals is *impractical*. Structural investment in nations is *necessary*.
+</categorization>
+<deconstruction>
+Reparations are not ""punishment""; they are ""correction."" It is balancing a ledger. The solution is debt cancellation and technology transfer—reparations as ""Global Marshall Plan.""
+</deconstruction>
+<conclusion>
+Reparations are morally necessary but must take the form of structural investment and debt cancellation rather than unfeasible direct cash payments.
+</conclusion>"
+"Is AI-generated art ""real"" art?","<reason>
+Traditionalists say no. Art requires human intent, soul, and conscious experience. AI is just probabilistic recombination of pixels.
+</reason>
+<exception>
+Photography was once called ""soulless."" If the viewer feels emotion, the origin is secondary. The prompter provides the intent; the AI is the brush.
+</exception>
+<tension>
+The conflict is between *Art as Process* (human struggle) and *Art as Product* (aesthetic result).
+</tension>
+<categorization>
+AI creates *Aesthetic Artifacts*, but not *Human Communication*.
+</categorization>
+<deconstruction>
+We are confusing ""Art"" (meaning) with ""Content"" (stimulation). AI dominates Content. Humans must retreat to Art—work that relies on context, story, and intent that a machine cannot fake.
+</deconstruction>
+<conclusion>
+AI generates aesthetic products but lacks the communicative intent of human art. It is a tool, not an artist.
+</conclusion>"
+Should voting be mandatory in democracies?,"<reason>
+Yes. It ensures legitimacy and represents the median citizen, dampening extremism. It treats voting as a civic duty, like jury duty.
+</reason>
+<exception>
+Compelled speech violates liberty. The right to speak includes the right to remain silent. Forcing uninformed people to vote introduces noise.
+</exception>
+<tension>
+The tension is between *civic duty* (participation) and *individual liberty* (abstention).
+</tension>
+<categorization>
+Mandatory *Voting* is illiberal. Mandatory *Attendance* is acceptable.
+</categorization>
+<deconstruction>
+The solution is a ""None of the Above"" option. You must show up to the square, but you can say nothing. This balances the state's need for legitimacy with the citizen's right to protest.
+</deconstruction>
+<conclusion>
+Mandatory voting is justified only if it allows for a ""None of the Above"" option, balancing legitimacy with liberty.
+</conclusion>"
+Should we allow genetic engineering of humans (Designer Babies)?,"<reason>
+Ethically, no. It risks creating a biological caste system (Gattaca). The rich get smarter/stronger, permanently entrenching inequality.
+</reason>
+<exception>
+Refusing to cure genetic diseases (Huntington's) when we have the tech is cruel. Why is ""genetic lottery"" morally superior to ""genetic design"" if the result is health?
+</exception>
+<tension>
+The conflict is between *alleviation of suffering* (therapy) and *pursuit of perfection* (enhancement).
+</tension>
+<categorization>
+Genetic engineering is ethical for *Therapy* (bringing to baseline) but dangerous for *Enhancement* (exceeding baseline).
+</categorization>
+<deconstruction>
+The problem isn't the technology; it's the market. If gene editing is a luxury, it is evil. If it is a public good (like vaccines), it is progress. We must socialize the DNA.
+</deconstruction>
+<conclusion>
+Genetic engineering is inevitable and ethically permissible for therapy, but requires strict egalitarian distribution to prevent a biological class divide.
+</conclusion>"
+Is a 4-day work week economically viable?,"<reason>
+Business logic says no. Less time equals less output. It increases labor costs and drives inflation.
+</reason>
+<exception>
+Humans are not machines. Rested workers are more productive per hour. In knowledge work, output often remains stable or increases with fewer hours (Parkinson's Law).
+</exception>
+<tension>
+The tension is between *hours worked* (input) and *value created* (output).
+</tension>
+<categorization>
+Viable for *output-based* jobs (coding). Harder for *time-based* jobs (nursing).
+</categorization>
+<deconstruction>
+We are stuck in an industrial ""time-clock"" mindset. The goal of technology was to reduce toil. If we can't work less after 100 years of automation, the system is broken. We need to redistribute the ""Time Dividend.""
+</deconstruction>
+<conclusion>
+A 4-day work week is viable and efficient for the knowledge economy, but requires structural adjustments for service-based sectors.
+</conclusion>"
