@@ -90,10 +90,10 @@ If you use this dataset in your research, please cite:
 ```
 @dataset{tetralemma_reasoning_2025,
   title={Tetralemma Deconstructivist Reasoning Dataset},
-  author={AI Researcher},
+  author={Chakrabhuana Vishnu Deva},
   year={2025},
   publisher={GitHub},
-  url={https://github.com/your-username/tetralemma-reasoning-dataset}
+  url={https://github.com/RinKaname/tetralemma-reasoning-dataset}
 }
 ```
 
