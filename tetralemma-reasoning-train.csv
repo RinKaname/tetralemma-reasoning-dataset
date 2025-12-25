@@ -3833,3 +3833,111 @@ Optimization often targets the wrong metric. We don't want 'Efficient' engines (
 <conclusion>
 The Carnot limit defines the theoretical ceiling of efficiency, but practical engineering requires sacrificing this ideal to achieve non-zero power output in finite time.
 </conclusion>"
+Should I buy a house or rent?,"<reason>
+Buy. Homeownership builds equity, hedges against inflation, and provides stability. Rent is 'throwing money away' paying someone else's mortgage. Buying is the standard path to wealth accumulation.
+</reason>
+<exception>
+Rent. Buying has huge unrecoverable costs (closing fees, maintenance, property tax, interest). Renting offers flexibility and predictable costs. If you invest the down payment in the S&P 500, you often outperform real estate. A house is a liability (it eats cash) until you sell it.
+</exception>
+<tension>
+The tension is between *Forced Savings* (Real Estate as a piggy bank) and *Liquidity/ROI* (Stocks as a growth engine).
+</tension>
+<categorization>
+Buy if you stay *long-term* (>7 years) and value *control*. Rent if you value *mobility* and *cash flow*.
+</categorization>
+<deconstruction>
+The dilemma confuses 'Investment' with 'Consumption'. A primary residence is *Consumption* (you live in it). It is a lifestyle choice disguised as a financial asset. The best choice depends on whether you want to be a 'Landlord to yourself' or a 'Tenant of the market.'
+</deconstruction>
+<conclusion>
+Buying is not automatically better financially; it acts as an inflation hedge and forced savings mechanism, while renting offers liquidity and mobility, making the decision primarily about lifestyle stability rather than pure ROI.
+</conclusion>"
+Should I pursue passion or stability in my career?,"<reason>
+Passion. 'Do what you love and you'll never work a day in your life.' Motivation drives excellence, which eventually brings money. A stable but boring job leads to burnout and existential regret.
+</reason>
+<exception>
+Stability. 'Do what pays, and fund your passion on the weekends.' Passion careers (art, sports) are winner-take-all markets with high failure rates. Stability provides the psychological safety needed to enjoy life. Monetizing passion often kills the joy of it.
+</exception>
+<tension>
+The tension is between *Self-Actualization* (Meaning) and *Material Security* (Survival).
+</tension>
+<categorization>
+Pursue passion if you have *high risk tolerance* or a *safety net*. Pursue stability if you have *dependents* or *debt*.
+</categorization>
+<deconstruction>
+The binary is false. You can find meaning in 'boring' work (Craftsmanship), or you can have a 'Portfolio Career' (Stability job + Passion side-hustle). The goal is *Ikigai*: the intersection of what you love, what you are good at, and what the world pays for. You don't find it; you build it.
+</deconstruction>
+<conclusion>
+The choice is not between misery-with-money and happy-poverty, but finding a synthesis where economic utility supports, rather than cannibalizes, personal meaning.
+</conclusion>"
+Is social media bad for mental health?,"<reason>
+Yes. It correlates with anxiety, depression, and body dysmorphia. It engineers addiction (dopamine loops) and fosters 'Compare and Despair.' It replaces deep connection with shallow engagement.
+</reason>
+<exception>
+No. It provides community for marginalized groups, lowers the barrier to friendship, and allows expression. For a lonely person in a rural area, it is a lifeline. Blaming the tool ignores the user's agency. It is a mirror of society.
+</exception>
+<tension>
+The tension is between *Connection* (Network effects) and *Comparison* (Status anxiety).
+</tension>
+<categorization>
+It is bad for *Passive Consumption* (scrolling) but good for *Active Creation/Communication* (messaging).
+</categorization>
+<deconstruction>
+Social media is not 'Social'; it is an *Attention Economy*. We are not the customers; we are the product. The harm comes from the *business model* (optimizing for outrage/envy), not the technology of connection itself. We need 'Digital Nutrition' labels.
+</deconstruction>
+<conclusion>
+Social media is a double-edged sword that amplifies both connection and isolation; its impact depends heavily on whether the user engages actively for community or consumes passively for validation.
+</conclusion>"
+Analyze the Paradox of Choice in Dating Apps.,"<reason>
+Dating apps should increase happiness by expanding the pool of candidates. More options mean a higher probability of finding a perfect match. Efficiency reduces loneliness.
+</reason>
+<exception>
+Too many options lead to 'Choice Paralysis' and 'Maximizing' behavior. We treat people like products, swipe endlessly for 'someone better,' and feel less satisfied with our final choice because of FOMO (Fear Of Missing Out). Abundance devalues the individual.
+</exception>
+<tension>
+The tension is between *Opportunity* (Volume) and *Satisfaction* (Commitment).
+</tension>
+<categorization>
+Apps are good for *Meeting* (Introduction) but bad for *Dating* (Relationship building). They solve the 'Search Problem' but create an 'Evaluation Problem.'
+</categorization>
+<deconstruction>
+The paradox is that 'Freedom' (unlimited choice) becomes a cage. Happiness requires *constraint* (choosing one and closing the door). The apps monetize *singleness*, not relationships. They are designed to keep you searching, not finding. The algorithm wants you single.
+</deconstruction>
+<conclusion>
+Dating apps solve the problem of access but create the problem of commodification, where the illusion of infinite choice undermines the commitment necessary for satisfaction.
+</conclusion>"
+Remote Work vs Office Culture: Which is better for business?,"<reason>
+Remote. It maximizes *Efficiency*. No commute, fewer interruptions, access to global talent. Workers are happier and more productive when they control their environment. It saves real estate costs.
+</reason>
+<exception>
+Office. It maximizes *Serendipity*. Innovation happens in hallway conversations and whiteboarding. Culture, trust, and mentorship are hard to build over Zoom. Remote work slowly erodes social capital until the company becomes just a list of freelancers.
+</exception>
+<tension>
+The tension is between *Deep Work* (Individual Output) and *Collaboration* (Collective Creativity).
+</tension>
+<categorization>
+Remote is better for *Execution* (Coding/Writing). Office is better for *Ideation* and *Onboarding*.
+</categorization>
+<deconstruction>
+The binary assumes 'The Office' is one thing. It was often a distraction factory. The Hybrid model tries to split the difference, but often captures the worst of both (commute to sit on Zoom). The future is 'Async-First' cultures that gather intentionally for bonding, not presence.
+</deconstruction>
+<conclusion>
+The optimal model depends on the type of work; Remote optimizes for individual efficiency and scale, while the Office optimizes for trust and complex, unstructured collaboration.
+</conclusion>"
+Monolith vs Microservices: Which architecture is better?,"<reason>
+Microservices. They decouple teams, allow independent scaling, and prevent a single bug from crashing the whole system. They fit the agile/DevOps model of small, autonomous teams shipping fast.
+</reason>
+<exception>
+Monolith. It is simple to deploy, test, and debug. Microservices introduce 'Distributed Complexity' (network latency, eventual consistency). You trade one big problem for 100 small problems. For most startups, microservices are premature optimization (YAGNI).
+</exception>
+<tension>
+The tension is between *Organizational Scalability* (Teams working in parallel) and *Technical Simplicity* (Unified codebase).
+</tension>
+<categorization>
+Monolith is best for *Early Stage* (Finding Product-Market Fit). Microservices are best for *Hyper-Scale* (Google/Netflix scale).
+</categorization>
+<deconstruction>
+The choice follows Conway's Law: 'Systems resemble the communication structure of the organization.' You don't choose the architecture for the code; you choose it for the *team*. If you have 5 engineers, do a monolith. If you have 500, do services. The tech is secondary to the sociology.
+</deconstruction>
+<conclusion>
+Monolithic architecture offers simplicity and cohesion for smaller teams, while microservices manage complexity for large organizations at the cost of operational overhead; the choice is a function of team size, not just technology.
+</conclusion>"
