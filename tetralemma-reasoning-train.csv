@@ -5334,3 +5334,273 @@ The legal definition of 'Insanity' (M'Naghten) is totally disconnected from the 
 <conclusion>
 The insanity defense is a fundamental moral requirement of a system based on culpability, but strict legal standards ensure it remains a rare exception rather than a common loophole.
 </conclusion>"
+Should alcoholics receive liver transplants?,"<reason>
+No. Organs are a scarce resource. Allocating them to patients who caused their own condition (via alcohol abuse) violates the principle of Justice. It is unfair to the patient with a genetic defect who 'did nothing wrong' to die while the alcoholic gets a second chance they might squander.
+</reason>
+<exception>
+Yes. Medicine is not a moral court. We treat lung cancer in smokers and injuries in reckless drivers. Denial of care based on 'moral desert' sets a dangerous precedent. Alcoholism is a disease (Addiction), not just a choice. Sobriety requirements are sufficient to manage risk.
+</exception>
+<tension>
+The tension is between *Personal Responsibility* (Moral Desert) and *Medical Neutrality* (Treating the sick regardless of cause).
+</tension>
+<categorization>
+Transplants should be allocated by *Prognosis* (likelihood of survival), not *Past Conduct*. However, past conduct is a predictor of future prognosis (recidivism).
+</categorization>
+<deconstruction>
+The dilemma rests on the binary of 'Voluntary' vs 'Involuntary.' Modern neuroscience suggests addiction compromises volition. If the alcoholic 'could not stop,' they are as innocent as the genetic patient. The system should demand *future* commitment (rehab), not *past* purity.
+</deconstruction>
+<conclusion>
+Alcoholics should receive transplants based on medical urgency and likelihood of successful outcome (including sobriety), treating addiction as a comorbidity rather than a moral disqualifier.
+</conclusion>"
+Is involuntary hospitalization for mental health moral?,"<reason>
+Yes. It stems from 'Parens Patriae' (State as Parent). The state has a duty to protect individuals who cannot protect themselves due to psychosis or severe depression. It prevents suicide and harm to others (Beneficence). Leaving them 'free' to suffer on the street is cruelty, not liberty.
+</reason>
+<exception>
+No. It violates the fundamental right to liberty and bodily integrity. History shows it is used to control dissidents and non-conformists. Mental illness definitions are fluid. Forced treatment is often traumatic and ineffective, destroying trust in the healthcare system.
+</exception>
+<tension>
+The tension is between *Paternalism* (Safety) and *Autonomy* (Freedom).
+</tension>
+<categorization>
+Justified for *Imminent Danger* (Suicide/Violence). Unjustified for *Nuisance/Lifestyle* (Homelessness/Eccentricity).
+</categorization>
+<deconstruction>
+The concept of 'Competence' is the hinge. If the illness destroys the capacity to choose, the 'Self' is already gone; the state is protecting the body until the Self returns. But if the person is competent and just chooses differently (e.g., refusing meds), intervention is tyranny.
+</deconstruction>
+<conclusion>
+Involuntary hospitalization is a moral necessity in cases of imminent danger and incapacity, but must be strictly time-limited and subject to judicial review to prevent abuse.
+</conclusion>"
+Should AI be used for medical triage?,"<reason>
+Yes. AI can process thousands of variables instantly, predicting outcomes better than exhausted humans. It removes emotional bias and ensures consistent application of protocols. It optimizes the 'Greatest Good for the Greatest Number' (Utilitarianism).
+</reason>
+<exception>
+No. AI encodes the biases of its training data (e.g., racial bias in pain management). It creates a 'Black Box' where life-and-death decisions are unexplainable. It lacks the 'human touch' and empathy required to comfort the dying or make nuanced ethical exceptions.
+</exception>
+<tension>
+The tension is between *Algorithmic Efficiency* (Optimization) and *Human Accountability* (Moral Agency).
+</tension>
+<categorization>
+AI is a *Decision Support Tool* (Recommendation), not a *Decision Maker* (Judge). The final call must be human.
+</categorization>
+<deconstruction>
+Triage is 'Tragic Choice.' We want to blame someone for the death. If a human chooses, we blame the human. If an AI chooses, we feel helpless. We resist AI triage not because it's worse, but because it removes the *ritual* of care. We want to be saved by a person, not a probability.
+</deconstruction>
+<conclusion>
+AI should be used to inform triage decisions with data-driven predictions, but human clinicians must retain the final authority to account for context, equity, and compassion.
+</conclusion>"
+Is Physician-Assisted Suicide (PAS) ethical?,"<reason>
+Yes. It respects patient Autonomy. If a competent adult is terminally ill and suffering unbearable pain, they have the right to choose the timing and manner of their death ('Death with Dignity'). Forcing them to suffer is pointless cruelty.
+</reason>
+<exception>
+No. It violates the Hippocratic Oath ('Do no harm'). It risks a 'Slippery Slope' where the elderly, disabled, or poor are pressured to die to save money or burden. It fundamentally changes the doctor's role from Healer to Executioner.
+</exception>
+<tension>
+The tension is between *Relief of Suffering* (Compassion) and *Sanctity of Life* (Inviolability).
+</tension>
+<categorization>
+Ethical for *Terminal/Intractable* physical illness. Highly problematic for *Psychiatric* illness or *Disability* alone.
+</categorization>
+<deconstruction>
+The debate assumes 'Natural Death' is passive. But modern medicine prolongs dying artificially (ventilators/feeding tubes). PAS is often just 'stopping the machine' slightly earlier. The real issue is control. We fear the loss of self more than death itself.
+</deconstruction>
+<conclusion>
+Physician-Assisted Suicide is ethical when strictly regulated for competent, terminally ill patients, viewing it as a final act of autonomy rather than a violation of the sanctity of life.
+</conclusion>"
+Is it ethical to conduct placebo-controlled trials in developing nations when an effective treatment exists?,"<reason>
+Yes. The 'Standard of Care' in the host country might be 'no treatment.' Comparing a new drug to 'nothing' reflects the local reality. It is faster and cheaper, getting the drug to market sooner to save lives globally. It provides care to participants who would otherwise get nothing.
+</reason>
+<exception>
+No. It is exploitation ('Ethics Dumping'). If a treatment exists (e.g., AZT for HIV), giving a placebo is knowingly withholding care, which violates the Declaration of Helsinki. It treats poor people as 'means to an end.' The Standard of Care should be the *Global* standard.
+</exception>
+<tension>
+The tension is between *Scientific Pragmatism* (Local context) and *Universal Human Rights* (Global equity).
+</tension>
+<categorization>
+Placebo is unethical if a *Life-Saving* treatment exists. It is permissible if the condition is *Minor* or the existing treatment is *Unavailable/Unaffordable* locally (creating a new 'local best').
+</categorization>
+<deconstruction>
+The dilemma exposes the inequality of global health. The trial doesn't create the injustice; it highlights it. Demanding the 'Global Standard' often means the trial doesn't happen at all, and the local population gets nothing. Is 'perfect' the enemy of 'good'?
+</deconstruction>
+<conclusion>
+Placebo trials in developing nations are unethical when effective treatments exist globally; researchers must ensure benefit-sharing and provide the highest attainable standard of care.
+</conclusion>"
+Should doctors always tell the truth to terminal patients?,"<reason>
+Yes. Truth-telling is a requirement of Autonomy. Patients need facts to make informed decisions about their remaining time (wills, goodbyes). Lying ('Benevolent Deception') is paternalistic and destroys trust.
+</reason>
+<exception>
+No. In some cultures, bad news is seen as harmful (causing the patient to give up). The family may request to hide the diagnosis to protect the patient's hope (Non-maleficence). The 'Truth' can be a weapon that destroys the quality of the remaining life.
+</exception>
+<tension>
+The tension is between *Right to Know* (Agency) and *Duty to Protect* (Psychological welfare).
+</tension>
+<categorization>
+Tell the truth *by default*, but respect *Cultural/Personal Preferences* (ask 'how much do you want to know?').
+</categorization>
+<deconstruction>
+'The Truth' is not a single data point ('You have 6 months'). It is a process. Doctors can tell the medical truth ('The cancer is growing') without dictating the existential truth ('There is no hope'). Hope can coexist with terminal prognosis if framed correctly.
+</deconstruction>
+<conclusion>
+Doctors have a prima facie duty to tell the truth to enable autonomy, but must deliver it with sensitivity and respect for the patient's desired level of information.
+</conclusion>"
+"How should scarce resources (e.g., ventilators) be allocated in a pandemic?","<reason>
+Utilitarianism: Save the most life-years. Give ventilators to the young and healthy who have the best chance of survival and the most life left to live. First Come, First Served is inefficient and lets people die who could have been saved.
+</reason>
+<exception>
+Egalitarianism: Every life has equal value. Selecting based on age or health discriminates against the elderly and disabled. A lottery or First Come, First Served is the only 'fair' way because it treats everyone as equals before God/Nature.
+</exception>
+<tension>
+The tension is between *Maximizing Benefit* (Aggregate outcome) and *Fairness/Equity* (Process justice).
+</tension>
+<categorization>
+Use *Utilitarian* criteria (SOFA scores) for the initial triage. Use *Lottery* as a tie-breaker between equal prognoses.
+</categorization>
+<deconstruction>
+The crisis reveals that 'Right to Life' depends on 'Capacity of Infrastructure.' We are not choosing who lives; we are choosing who dies. The stress should not be on the doctors (triage) but on the state (supply). Triage is a failure of preparation.
+</deconstruction>
+<conclusion>
+Scarce resources should be allocated to maximize the number of lives (and life-years) saved, using objective medical criteria rather than social worth, while using random selection for equivalent cases.
+</conclusion>"
+Does a doctor have a duty to warn relatives of a patient's genetic condition?,"<reason>
+Yes. If a patient has a genetic mutation (e.g., Huntington's, BRCA), their relatives are at high risk. The doctor can prevent harm by warning them. The duty to warn (Tarasoff) outweighs confidentiality when there is an imminent, preventable threat.
+</reason>
+<exception>
+No. Genetic information is private property. The doctor-patient relationship is sacred. Breaking confidentiality undermines trust. The patient has the right to decide when and how to tell their family. The family has a 'Right Not to Know.'
+</exception>
+<tension>
+The tension is between *Patient Confidentiality* (Privacy) and *Third-Party Harm* (Duty to warn).
+</tension>
+<categorization>
+Duty to warn exists if the condition is *Actionable* (relatives can take steps to save themselves). It is weaker if the condition is *Incurable* (warning causes anxiety without remedy).
+</categorization>
+<deconstruction>
+Genetics challenges the idea of the 'Individual.' Your DNA is shared. You are not a data island; you are part of a data archipelago. The information belongs to the *lineage*, not just the *person*. Privacy laws are built for infectious disease, not genetic relation.
+</deconstruction>
+<conclusion>
+Ideally, doctors should persuade the patient to disclose; if that fails, the duty to warn relatives overrides confidentiality only when the harm is serious, likely, and preventable.
+</conclusion>"
+Are Human Challenge Trials (infecting volunteers) ethical?,"<reason>
+Yes. They massively accelerate vaccine development (months vs years). Volunteers give informed consent and are paid. The risk to young, healthy volunteers is low, while the benefit to society (ending a pandemic) is infinite. It is heroic altruism.
+</reason>
+<exception>
+No. 'Do no harm' means doctors should not intentionally sicken people. Informed consent is dubious if the disease is new (unknown long-term risks). Payment creates coercion for the poor. If a volunteer dies, it destroys public trust in science.
+</exception>
+<tension>
+The tension is between *Collective Urgency* (Speed) and *Research Ethics Safety* (Non-maleficence).
+</tension>
+<categorization>
+Ethical if *Treatments Exist* (rescue therapy) or risks are *Quantified and Low*. Unethical for *High Mortality* pathogens with no cure.
+</categorization>
+<deconstruction>
+We allow people to be firefighters or soldiers (high risk for public good). Why is medical risk different? The taboo is on the *active* role of the doctor injecting the virus. It feels like violation. But objectively, it is risk management.
+</deconstruction>
+<conclusion>
+Human Challenge Trials are ethical when the societal value is high, risks are minimized and understood, and volunteers provide robust, uncoerced informed consent.
+</conclusion>"
+Should a market for organs (selling kidneys) be legalized?,"<reason>
+Yes. The shortage of kidneys kills thousands annually. Legalization creates supply (incentive). We allow selling blood plasma, sperm, and eggs. Why not kidneys? It respects the autonomy of the seller ('My body, my asset').
+</reason>
+<exception>
+No. It commodifies the human body. It leads to exploitation of the poor, who become 'spare parts' for the rich. Consent is not 'free' if driven by desperation. It undermines the altruistic donation system.
+</exception>
+<tension>
+The tension is between *Market Efficiency* (Saving lives via supply) and *Human Dignity* (Preventing commodification).
+</tension>
+<categorization>
+A *Regulated Market* (State is the only buyer, fixed price, long-term health care for sellers) might work. A *Free Market* is dystopian.
+</categorization>
+<deconstruction>
+We already have a market; it's just a black market. Legalization brings it into the light. The current system ('Altruism only') imposes the cost of the shortage on the dying patients. We are prioritizing the 'dignity' of the system over the lives of the sick.
+</deconstruction>
+<conclusion>
+While a free market for organs risks exploitation, a strictly regulated state-monopsony system with compensation could ethically resolve the shortage while protecting vulnerable donors.
+</conclusion>"
+Is abortion ethical?,"<reason>
+Pro-Choice: Yes. It is a matter of bodily autonomy. No person has the right to use another's body against their will (The Violinist Argument). The fetus is potential life, not a person with rights. Forcing birth is reproductive slavery.
+</reason>
+<exception>
+Pro-Life: No. Life begins at conception. The fetus is a human being with a Right to Life. Abortion is the intentional killing of an innocent human. Size or dependency does not determine humanity. It is a violation of the most basic human right.
+</exception>
+<tension>
+The tension is between *Bodily Autonomy* (The Woman) and *Right to Life* (The Fetus).
+</tension>
+<categorization>
+The conflict depends on *Moral Status*. If Fetus = Person, Right to Life > Autonomy (usually). If Fetus != Person, Autonomy prevails.
+</categorization>
+<deconstruction>
+The debate is intractable because the premises (When does personhood begin?) are metaphysical, not biological. The law must manage the conflict of rights. Viability is a common line, balancing the state's interest in potential life with the woman's liberty.
+</deconstruction>
+<conclusion>
+Abortion presents an irreconcilable conflict between the moral status of the fetus and the bodily autonomy of the pregnant person, typically resolved legally through a viability framework.
+</conclusion>"
+When is medical treatment 'futile' and should it be stopped?,"<reason>
+Futile means the treatment cannot achieve its physiological goal (e.g., CPR on a decapitated patient). It creates false hope, causes pain, and wastes resources. Doctors have no duty to provide futile care. Stopping is the ethical path.
+</reason>
+<exception>
+'Futility' is subjective. Does it mean 'impossible to survive' or 'not worth surviving' (quality of life)? If the family believes in a miracle or values even a few more hours, stopping treatment looks like 'death panels.' It imposes the doctor's values on the patient.
+</exception>
+<tension>
+The tension is between *Clinical Judgment* (Objective probability) and *Patient Values* (Subjective meaning).
+</tension>
+<categorization>
+Distinguish *Physiological Futility* (Won't work) from *Qualitative Futility* (Is it worth it?). Doctors decide the first; Patients/Families decide the second.
+</categorization>
+<deconstruction>
+The fight over futility is often a fight over accepting death. Medicine fights death. When medicine loses, we feel it is a failure. Labeling care 'futile' is a way for doctors to cope with their inability to save. It is a boundary setting exercise.
+</deconstruction>
+<conclusion>
+Medical futility justifies ceasing treatment when the physiological intervention cannot succeed, but care must be taken not to disguise value judgments about quality of life as objective medical facts.
+</conclusion>"
+Can parents refuse life-saving treatment for their children based on religion?,"<reason>
+Parents have the right to raise their children in their faith (Religious Freedom). The state should not interfere in the family unit. If they believe blood transfusions are a sin (Jehovah's Witnesses), the state respects that belief.
+</reason>
+<exception>
+The child is not the property of the parents. The child has an independent Right to Life. Parents can become martyrs for themselves, but they cannot make a martyr of their child (Prince v. Massachusetts). The state must intervene to save the child.
+</exception>
+<tension>
+The tension is between *Parental Rights/Religious Freedom* and *Child Welfare/Right to Life*.
+</tension>
+<categorization>
+Parents can refuse for *Themselves*. They cannot refuse *Life-Saving* care for *Minors*. They *can* refuse for minors if the treatment is experimental or the condition is not life-threatening.
+</categorization>
+<deconstruction>
+The state assumes the child *would* choose life if they were an adult. This is a 'Best Interest' standard. We suspend the parents' rights temporarily to preserve the child's future ability to choose their own religion.
+</deconstruction>
+<conclusion>
+While parents have broad authority, the state must intervene to provide life-saving medical treatment to minors, prioritizing the child's right to live over the parents' religious convictions.
+</conclusion>"
+Is Germline Genome Editing (CRISPR babies) ethical?,"<reason>
+Yes. It can eliminate horrible genetic diseases (Tay-Sachs, Cystic Fibrosis) from the gene pool forever. It is the ultimate preventative medicine. Parents have a duty to give their children the best genetic start.
+</reason>
+<exception>
+No. Changes are heritable (passed to all future generations). We don't know the off-target effects (safety). It opens the door to 'Eugenics' and 'Designer Babies' (enhancing intelligence/beauty), creating a genetic elite. It treats children as products.
+</exception>
+<tension>
+The tension is between *Alleviation of Suffering* (Therapy) and *Unintended Consequences/Inequality* (Enhancement).
+</tension>
+<categorization>
+*Somatic* editing (non-heritable) is widely accepted. *Germline* editing (heritable) is currently a 'Red Line' (Moratorium).
+</categorization>
+<deconstruction>
+The line between Therapy and Enhancement is blurry. Is editing a gene for 'low heart disease risk' therapy or enhancement? We are playing God without the omniscience. The risk is not just biological; it is social stratification.
+</deconstruction>
+<conclusion>
+Germline editing offers the promise of eradicating genetic disease but poses unacceptable risks of unforeseen biological consequences and eugenic social inequality, warranting a current moratorium.
+</conclusion>"
+Should Big Data (health records) be used for research without explicit consent?,"<reason>
+Yes. Aggregated data can cure cancer, predict epidemics, and improve care. The 'Public Good' is massive. Requiring individual consent for millions of records creates 'Selection Bias' and makes research impossible (high friction). De-identification protects privacy.
+</reason>
+<exception>
+No. My health data is mine. Using it for profit (Pharma/Tech) without my permission is theft/exploitation. De-identification is a myth (re-identification is easy). It erodes trust. If people don't trust the system, they will hide information.
+</exception>
+<tension>
+The tension is between *Public Health Utility* (Big Data) and *Informational Privacy* (Consent).
+</tension>
+<categorization>
+Acceptable if *Strictly Anonymized* and for *Public Interest* (Non-profit). Problematic if *Commercialized* or *Identifiable*.
+</categorization>
+<deconstruction>
+Data is the new 'body.' We have laws for donating organs; we need laws for donating data. We should move from 'Consent' (Opt-in) to 'Governance' (Data Trusts). You don't ask every drop of water if it wants to be in the river, but you make sure the river isn't poisoned.
+</deconstruction>
+<conclusion>
+Using health data for research serves the public good, but it requires robust governance, true anonymization, and potentially a 'Data Trust' model rather than relying solely on individual consent.
+</conclusion>"
