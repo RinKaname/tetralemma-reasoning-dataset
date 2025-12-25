@@ -1,1 +1,1 @@
-You can contribute to creating philosophical questions based on the reasoning format. You don't need to write the XML format, only the question. How does it sound?
+
