@@ -1,0 +1,300 @@
+1. A portfolio manager holds a long position in a stock and wants to hedge using put options. If the stock has a delta of 0.75 and a gamma of 0.05, what is the approximate delta of a 1-month put option (assume European style)?
+2. Explain the relationship between Value-at-Risk (VaR) and Conditional Value-at-Risk (CVaR). Under what market conditions would CVaR be significantly higher than VaR?
+3. A hedge fund calculates a rolling 20-day VaR at the 95% confidence level of $2M. What does this mean in terms of expected losses, and what are the limitations of using VaR for risk measurement?
+4. How would you construct a minimum variance portfolio using 50 assets with incomplete correlation matrix data? What imputation methods would you consider?
+5. A portfolio has a Sharpe ratio of 1.2 with an annual volatility of 15%. If you increase leverage by 2x, what happens to the Sharpe ratio, and what are the hidden risks?
+6. Describe the mechanics of a variance swap. How would you price it, and what are its advantages over standard volatility derivatives?
+7. An investor holds a portfolio with a correlation matrix that exhibits time-varying correlations. How would you model this using Dynamic Conditional Correlation (DCC) models?
+8. What is the difference between systematic and idiosyncratic risk? How would you decompose portfolio risk using factor models?
+9. A hedge fund's portfolio exhibits negative convexity. Explain this concept and its implications for portfolio rebalancing during market stress.
+10. How would you calculate the marginal contribution to risk (MCR) for an individual position in a multi-asset portfolio?
+11. Explain the concept of liquidity-adjusted VaR. How does illiquid asset concentration affect tail risk measurement?
+12. A portfolio manager notices that correlation across assets spikes during market downturns. What framework would you use to model this behavior?
+13. How would you construct a stress test for a portfolio with exposure to multiple asset classes, currencies, and derivatives?
+14. What is the relationship between skewness, kurtosis, and tail risk? How would you adjust your risk models to account for non-normal return distributions?
+15. A fund has a Sortino ratio of 1.8 compared to a Sharpe ratio of 1.2. What does this tell you about the fund's return distribution and risk profile?
+16. Derive the Black-Scholes pricing formula from first principles using risk-neutral valuation. What are the key assumptions, and how would you modify them for American options?
+17. A trader enters a straddle position (long call and put at the same strike). What market conditions would profit this position, and how would you hedge gamma risk?
+18. Explain the concept of implied volatility smile/skew. What causes this phenomenon, and how would you trade it?
+19. How would you price a barrier option using Monte Carlo simulation? What variance reduction techniques would you apply?
+20. A fund holds a large position in convertible bonds. How would you decompose the valuation into equity, bond, and option components?
+21. What is the relationship between vega and realized volatility? How would you construct a volatility arbitrage strategy?
+22. Explain the mechanics of a swaption. How does the Black model differ from Black-Scholes for interest rate derivatives?
+23. A portfolio manager wants to reduce duration risk without selling bonds. What derivative strategies would you recommend, and what are the trade-offs?
+24. How would you price a credit default swap (CDS)? What factors drive CDS spreads, and how would you identify mispricings?
+25. Describe the concept of gamma decay. How would you dynamically hedge a short gamma position?
+26. What is a quanto derivative? How would you price a quanto call option on a foreign equity index?
+27. Explain the mechanics of a TRS (Total Return Swap). What are its use cases in hedge fund and PE strategies?
+28. How would you price an American option using binomial trees versus finite difference methods? What are the computational trade-offs?
+29. A trader has a short volatility position (short straddle). How would you calculate the breakeven points and manage the position during volatile markets?
+30. What is the relationship between realized volatility and implied volatility? How would you construct a volatility forecasting model?
+31. How would you design a mean-reversion trading strategy? What statistical tests would you use to validate mean reversion, and how would you avoid look-ahead bias?
+32. Explain the methodology of principal component analysis (PCA) applied to a covariance matrix. How would you use PCA to reduce dimensionality in factor models?
+33. A hedge fund uses machine learning to predict asset returns. What are the key challenges (overfitting, data leakage, regime change), and how would you address them?
+34. How would you construct a factor model using linear regression? What diagnostic tests would you perform to ensure model validity?
+35. Describe the concept of bootstrapping in financial analysis. How would you use bootstrap methods to estimate confidence intervals for portfolio returns?
+36. What is the difference between time-series cross-validation and cross-validation in machine learning? Why is time-series cross-validation critical for backtesting?
+37. How would you detect structural breaks in financial time series? What methods would you use?
+38. A quant model shows high in-sample performance but low out-of-sample performance. What are the potential causes, and how would you diagnose this?
+39. Explain the Kalman filter and its applications in finance (e.g., estimating hidden state variables, tracking alpha signals).
+40. How would you model regime-switching behavior in asset returns? What are the use cases in portfolio construction?
+41. What is the difference between supervised and unsupervised learning? Provide examples of each applied to finance.
+42. How would you implement a clustering algorithm to identify similar stocks or market regimes?
+43. Explain the concept of feature importance in machine learning models. How would you identify the most influential variables in a predictive model?
+44. What is adversarial robustness in machine learning, and why is it critical for financial models exposed to market stress?
+45. How would you validate a machine learning model's performance using ROC curves, precision-recall, and other metrics?
+46. A portfolio manager wants to match a 10-year liability using bond holdings. How would you construct a bullet versus ladder strategy?
+47. Explain the concept of key rate duration. How would you use it to manage interest rate risk in a bond portfolio?
+48. What is negative convexity in mortgages? How does prepayment risk affect the valuation of mortgage-backed securities (MBS)?
+49. How would you model the term structure of interest rates using the Nelson-Siegel model? What are its applications?
+50. A corporate bond is trading at a 200 bps spread over Treasuries. How would you estimate the probability of default using the spread information?
+51. Explain the mechanics of a credit spread trade. How would you identify mispricings between corporate bonds and CDS?
+52. What is basis risk in fixed income? Provide examples and strategies to minimize it.
+53. How would you price a floating-rate note with caps and floors? What is the relationship between cap/floor pricing and swaption pricing?
+54. A bank manager wants to immunize a bond portfolio against interest rate changes. Explain the duration matching strategy and its limitations.
+55. What is the difference between nominal yield and real yield? How would you construct a breakeven inflation analysis?
+56. Explain the concept of option-adjusted spread (OAS). How does it differ from nominal spread?
+57. How would you construct a credit model to predict corporate defaults? What variables would you include?
+58. What is a CDS basis? How would you trade the basis between CDS and cash bonds?
+59. Explain the mechanics of a collateralized debt obligation (CDO). What are the risks, and how would you analyze tranches?
+60. How would you analyze a distressed credit situation? What metrics would you focus on?
+61. You discover that your backtesting results show a Sharpe ratio of 2.0, but live trading shows 0.8. What are the likely causes of this discrepancy?
+62. How would you design a proper backtesting framework to avoid look-ahead bias, survivorship bias, and data snooping?
+63. Explain the concept of walk-forward optimization. How would you validate a trading strategy using this method?
+64. What is the difference between parametric and non-parametric bootstrapping in backtesting? When would you use each?
+65. How would you stress test a trading strategy against historical market crises (e.g., 2008, COVID-19)?
+66. What is Monte Carlo simulation, and how would you use it to estimate the probability distribution of portfolio returns?
+67. A strategy shows high Sharpe ratio in-sample but fails out-of-sample. How would you diagnose the problem using performance attribution?
+68. Explain the concept of slippage in backtesting. How would you model realistic market impact costs?
+69. What is transaction cost analysis (TCA), and how would you incorporate it into your backtesting framework?
+70. How would you detect and eliminate data snooping bias in your research process?
+71. What is the Sharpe ratio's relationship to the information ratio? How would you compare active managers using these metrics?
+72. Explain the concept of maximum drawdown. How would you construct a strategy that minimizes drawdowns while maximizing returns?
+73. How would you perform a sensitivity analysis on a trading strategy to identify parameter robustness?
+74. What is the Calmar ratio, and how does it compare to the Sharpe ratio for evaluating hedge fund performance?
+75. How would you analyze the return distribution of a strategy to identify skewness, kurtosis, and tail risk?
+76. A long/short equity hedge fund holds 100 long positions (average position size 1.5%) and 50 short positions (average position size 2%). What is the net exposure and gross exposure? How would you interpret these metrics?
+77. A fund manager identifies a stock that is fundamentally undervalued but has been declining 15% annually. How would you determine if this is a shorting opportunity or a value trap?
+78. Explain the mechanics of shorting a stock. What are the costs (borrow costs, dividends, short squeezes), and how would you manage them?
+79. A long/short fund has a beta of 0.3 with an information ratio of 1.5. What does this tell you about the fund's alpha generation and risk profile?
+80. How would you construct a market-neutral long/short portfolio? What constraints would you impose?
+81. A short position in a small-cap stock suddenly spikes 50% due to a takeover announcement. How would you manage this position?
+82. Explain the difference between statistical arbitrage and fundamental long/short investing. What are the skill sets required for each?
+83. How would you identify pairs trading opportunities? What statistical tests would you use to validate a pair?
+84. A fund wants to hedge sector exposure. Should it use index futures, short sector ETFs, or individual stock shorts? What are the trade-offs?
+85. How would you analyze the quality of a company's earnings? What metrics and red flags would you monitor?
+86. A fund has high conviction in a short position but wants to reduce capital at risk. How would you structure a collar or other hedge?
+87. Explain the concept of short-covering rallies. How would you exploit this phenomenon?
+88. How would you identify potential takeover targets? What due diligence would you conduct?
+89. A fund manager notices insider buying in a stock. Is this a bullish signal, and how would you validate the conviction?
+90. How would you manage concentration risk in a long/short portfolio with few positions?
+91. A merger arbitrage fund identifies a pending acquisition where the acquirer's stock is trading at $50, the target's stock is at $42, and the deal price is $45. What is the arbitrage spread, and what risks are present?
+92. Explain the types of deal risk in merger arbitrage (regulatory, financing, shareholder vote). How would you model the probability of deal completion?
+93. A hostile takeover is announced with multiple bidders. How does this affect the arb spread, and what opportunities arise?
+94. How would you analyze the regulatory environment for a cross-border merger? What approval risks would you assess?
+95. A merger is announced but the deal has 18 months to close. How would you compare the arb spread to the risk-free rate and assess whether it's attractive?
+96. Explain the concept of deal spread compression. When would you expect it to occur, and how would you position your portfolio?
+97. A debt-financed acquisition faces potential financing risk. How would you assess the probability of deal break due to financing failure?
+98. How would you model shareholder vote risk in a merger? What factors influence shareholder approval probability?
+99. A fund is considering a long position in the acquirer (synergy play) in addition to the arb spread. How would you structure this dual position?
+100. Explain the concept of reverse merger arbitrage. When would this trade be attractive?
+101. How would you analyze antitrust concerns in a merger? What precedents would you review?
+102. A merger agreement includes material adverse change (MAC) clauses. How would you interpret these, and what triggers them?
+103. How would you hedge currency risk in a cross-border M&A arbitrage?
+104. A merger is announced at a 30% premium. Is the high premium a sign of strong synergies or deal risk?
+105. How would you structure a portfolio of merger arb trades to optimize risk/reward?
+106. A distressed company is trading at 50% of book value. How would you conduct fundamental due diligence to assess if it's a turnaround or a value trap?
+107. A company files for bankruptcy. What is your framework for analyzing the equity's potential recovery value?
+108. Explain the concept of emergence equity. How would you calculate expected returns from a Chapter 11 emergence scenario?
+109. A distressed bond is trading at 40 cents on the dollar. How would you estimate the recovery value and probability of default?
+110. How would you model the dilution impact on existing shareholders from a debt-to-equity conversion in bankruptcy?
+111. A company negotiates a debt restructuring agreement. How would you analyze the impact on equity value?
+112. Explain the concept of a pre-packaged bankruptcy (prepack). How does it differ from a traditional bankruptcy, and what are the implications for equity holders?
+113. How would you analyze management's credibility and capability during a restructuring process?
+114. A distressed company has multiple asset classes (debt, equity, preferred). How would you structure positions across the capital structure?
+115. How would you monitor covenant violations and liquidity in a distressed situation?
+116. Explain the concept of control contests in bankruptcy. How would you bet on the outcome?
+117. A creditor committee is formed to negotiate a restructuring plan. How would you forecast the outcome?
+118. How would you analyze environmental or legal liabilities that could impair recovery value?
+119. A turnaround situation requires significant operational improvements. How would you assess management's ability to execute?
+120. How would you position a portfolio to profit from industry consolidation in a distressed sector?
+121. A systematic hedge fund uses machine learning to predict intraday price movements. What are the key challenges (overfitting, regime change, latency), and how would you address them?
+122. A trend-following system generates signals based on moving average crossovers. How would you optimize the moving average periods, and what walk-forward validation would you conduct?
+123. Explain the concept of risk parity. How would you construct a risk parity portfolio, and what are its historical performance characteristics?
+124. A volatility arbitrage strategy shorts out-of-the-money (OTM) calls and puts. How would you manage gamma risk dynamically?
+125. How would you design a statistical arbitrage system to identify mispricings across related securities?
+126. A fund trades mean-reverting strategies across multiple asset classes. How would you identify which markets exhibit mean reversion and avoid false signals?
+127. Explain the concept of clustering in returns. How would you exploit clustering patterns?
+128. A systematic fund's algorithm identifies a pattern that has generated alpha for the last 5 years. What validation tests would you conduct before deploying capital?
+129. How would you construct a machine learning model to predict regime changes (bull/bear/sideways markets)?
+130. A algorithmic trading system trades 1000+ times per day with sub-second latencies. What are the infrastructure, execution, and regulatory risks?
+131. How would you design a stop-loss framework for a systematic trading strategy without inducing whipsaw losses?
+132. A momentum strategy performs well in up markets but struggles in sideways markets. How would you modify the strategy to adapt?
+133. Explain the concept of factor rotation. How would you systematically rotate between value, momentum, and quality factors?
+134. How would you identify and eliminate data snooping bias when developing systematic trading strategies?
+135. A fund uses sentiment analysis from social media to generate trading signals. How would you validate the signal's predictive power?
+136. A macro hedge fund has a conviction that central bank policy will tighten. How would you structure a position to profit from this view?
+137. Explain the relationship between interest rates and currency moves. How would you model this relationship?
+138. A fund expects stagflation. How would you position a portfolio to profit from this scenario?
+139. Oil prices have declined 50% over 12 months. How would you assess whether prices are cheap or in a structural downtrend?
+140. A crude oil storage facility is at capacity. How does this affect the contango/backwardation structure of futures?
+141. Explain the concept of basis trading in commodities. How would you identify mispricings?
+142. A macro fund wants to hedge inflation risk. What instruments (TIPS, commodities, etc.) would you use?
+143. How would you analyze geopolitical events (wars, sanctions, elections) and their potential impact on markets?
+144. A currency is trading at a significant premium to purchasing power parity (PPP). Is it overvalued, and how would you trade this?
+145. Explain the carry trade concept. How would you identify profitable carry opportunities and manage carry-trade unwinding risk?
+146. A country's central bank intervenes in the currency market. How would you assess the effectiveness and sustainability of the intervention?
+147. How would you model the impact of energy prices on equity market returns?
+148. A commodity index has been declining, but the spread between spot and futures has widened. What does this tell you?
+149. How would you hedge agricultural exposure for a commodity trading fund?
+150. Explain the relationship between the US dollar and emerging market asset prices. How would you exploit this relationship?
+151. A Series A startup is valued at $20M pre-money with $5M investment. What is the post-money valuation, and what ownership stake does the VC receive?
+152. A Series C startup has annual revenue of $50M and is growing at 80% YoY. Using the Power Law of VC, what would be an appropriate exit valuation in 5 years?
+153. How would you estimate the TAM (Total Addressable Market) for an enterprise SaaS startup? What bottoms-up and top-down approaches would you use?
+154. A startup claims it will reach profitability within 18 months. How would you validate this claim through unit economics analysis?
+155. Explain the concept of "burn rate" in VC. If a startup has $5M in cash, $1M monthly burn, and is growing revenue at 10% MoM, how long is the runway?
+156. How would you analyze a startup's competitive moat? What defensibility metrics would you assess?
+157. A startup's customer acquisition cost (CAC) is $500, and the customer lifetime value (LTV) is $2000. Is this unit economics attractive?
+158. How would you evaluate a founding team's background, skills, and ability to execute? What are the red flags?
+159. A startup's product roadmap is aggressive, but the engineering team is small. How would you assess execution risk?
+160. Explain the concept of "product-market fit." How would you determine if a startup has achieved it?
+161. A startup is in a capital-efficient business but is raising at a high valuation. Is this justified, or is there downside risk?
+162. How would you analyze the quality of a startup's existing investors and board composition?
+163. A startup has significant technical debt. How would you assess the cost to remediate and its impact on future velocity?
+164. How would you model the impact of competition on a startup's growth projections?
+165. A startup's revenue is growing, but customer churn is accelerating. What does this signal, and how would you dig deeper?
+166. A VC fund has a 2x gross multiple and a 1.8x net multiple (after fees and carry). What does this tell you about the fund's performance and fee structure?
+167. A $500M VC fund charges 2% management fees and 20% carry. Over a 10-year fund life, what are the cumulative fees and carry?
+168. Explain the concept of "J-curve" in VC fund performance. Why do early-vintage funds often underperform before outperforming later?
+169. A VC firm has invested in 20 startups. 10 have failed (valued at $0), 8 return the invested capital (1x multiple), and 2 generate 20x returns. What is the MOIC?
+170. How would you calculate the IRR of a VC fund given investments over multiple years and exits at different times?
+171. A VC fund has written off 40% of its portfolio (deemed total losses). How does this affect fund returns, and what does it signal?
+172. Explain the concept of "power law" in VC returns. Why do a few winners generate outsized returns?
+173. A VC fund's net IRR is 8%, below the target of 20%. What are the likely causes, and how would you improve performance?
+174. How would you analyze the quality of a VC fund's historical exits? What metrics would you review?
+175. A VC fund has a high average multiple but uneven distribution (1 winner, many failures). Is this a successful fund?
+176. Explain the concept of "dry powder" in VC. How does unutilized capital affect fund returns?
+177. How would you model the impact of follow-on investment reserves on fund returns?
+178. A GP is raising a new fund and claims a 3x return target with $200M deployment. Is this realistic?
+179. How would you evaluate a VC fund's sector specialization? Are generalists or specialists better?
+180. Explain the concept of anti-dilution in VC. How would you model the impact on cap tables?
+181. A SaaS startup has MRR (Monthly Recurring Revenue) of $100K with 5% MoM growth. What is the projected ARR (Annual Recurring Revenue) in 12 months?
+182. Explain the relationship between CAC Payback Period and LTV. If CAC payback is 18 months and LTV is 36 months, is this unit economics acceptable?
+183. A SaaS startup has an MRR churn rate of 5% and new customers adding $50K MRR. What is the net revenue growth rate?
+184. How would you calculate the Magic Number (growth efficiency) for a SaaS company? What threshold indicates efficient growth?
+185. A startup's Rule of 40 score (growth rate + profit margin) is 35. What does this tell you about the business model?
+186. Explain the concept of negative churn. When does a SaaS company achieve it, and how does it affect valuations?
+187. A SaaS startup spends 40% of revenue on S&M. Is this too high, or is it efficient given the growth?
+188. How would you analyze a SaaS startup's payback period for new sales? What is a healthy benchmark?
+189. A startup has high CAC but also high LTV. Should a VC invest, or is the payback period the limiting factor?
+190. Explain the concept of "land and expand." How would you model the expansion revenue contribution?
+191. A SaaS startup is targeting enterprise customers with 6-month sales cycles. How would you model the cash flow impact?
+192. How would you analyze the quality of recurring revenue vs. one-time revenue?
+193. A startup's NPS (Net Promoter Score) is 60. What does this signal about product quality and future growth?
+194. Explain the relationship between product development cycles and sales cycles in enterprise SaaS.
+195. How would you model the impact of price increases on churn and LTV?
+196. A VC investor made a $2M Series A investment in a startup. The company is underperforming, and the Series B requires a 20% down round. Should the VC invest?
+197. Explain the concept of "signaling risk." How does a down round affect a startup's momentum and future fundraising?
+198. A startup's founders are in conflict about the strategic direction. As a board member, how would you mediate?
+199. A startup needs a bridge loan to extend runway before the Series B closes. How would you structure this?
+200. A founder proposes a pivoting the business model. How would you evaluate this decision as a board member?
+201. Explain the concept of "governance rights" in VC term sheets. What protections do VCs typically require?
+202. A startup is acquiring a competitor. How would you analyze the strategic fit and integration risks?
+203. A founder wants to hire a family member for a senior role. How would you handle this as a board member?
+204. How would you evaluate a founder's CEO transition? When should a founder step aside?
+205. A startup has multiple term sheets from different VCs at different valuations. How would you advise the founder on the decision?
+206. Explain the concept of "liquidation preferences." How do they affect returns to common stockholders?
+207. A startup is in a hostile acquisition scenario. As a board member, how would you navigate this?
+208. How would you manage a situation where a major customer is also an investor?
+209. A startup is struggling to hit milestones, and the VC wants to replace the CEO. How would you approach this?
+210. Explain the concept of "drag-along" and "tag-along" rights. Why are these important?
+211. A PE firm acquires a company for $100M with 60% debt ($60M) and 40% equity ($40M). If EBITDA is $15M and interest rates are 5%, what is the leverage ratio and interest coverage?
+212. Explain the mechanics of a leveraged buyout (LBO). How does financial leverage amplify returns?
+213. A company has $100M in EBITDA with 4x leverage. The PE firm plans to reduce leverage to 2x within 5 years. What EBITDA growth would be required (assuming debt is paid down with FCF)?
+214. How would you model a management rollover or ratchet? What are the tax implications?
+215. A target company has operating leases that aren't on the balance sheet. How would you adjust the debt calculation and impact on leverage?
+216. Explain the concept of "dividend recaps." How do they affect leverage and returns?
+217. A PE acquisition includes earnout payments based on future performance. How would you model this in the investment return calculation?
+218. How would you analyze the debt structure of a leveraged company (senior debt, subordinated debt, preferred equity)? What are the covenants?
+219. A company has significant off-balance-sheet liabilities (pension obligations, environmental liabilities). How would you adjust the purchase price allocation?
+220. Explain the concept of "sponsor NPV." How does this affect deal pricing?
+221. A target company has seasonal working capital swings. How would you model this in the LBO model?
+222. How would you analyze refinancing risk in an LBO? What happens if rates spike?
+223. A PE acquisition includes a seller note (seller financing). How would this affect the return profile?
+224. How would you model the tax impact of an LBO on the exit return?
+225. A company has significant CapEx requirements to maintain operations. How would this affect FCF and deleveraging?
+226. A PE-backed company's EBITDA margin is 15%, while competitors are at 20%. How would you identify margin expansion opportunities?
+227. Explain the concept of "operational value creation." What are the main levers (pricing, cost reduction, growth)?
+228. A company has sales, general, and administrative (SG&A) expenses at 25% of revenue. How would you benchmark and identify reduction opportunities?
+229. How would you implement pricing increases without losing customers? What pricing strategies would you consider?
+230. A company's customer acquisition cost is rising while churn is increasing. How would you address these issues?
+231. Explain the concept of "synergies" in PE deals. How would you identify and underwrite revenue and cost synergies?
+232. A company has significant manual processes. How would you evaluate the cost of automation and the payback period?
+233. How would you implement supply chain optimization in a PE-backed company?
+234. A company has excess inventory. How would you optimize working capital without disrupting operations?
+235. Explain the concept of "same-store sales" growth. How would this differ from overall revenue growth?
+236. A company's net working capital is 20% of revenue. Is this excessive, and how would you reduce it?
+237. How would you evaluate a company's vendor contracts? What renegotiation opportunities exist?
+238. A PE firm is considering add-on acquisitions to a platform company. How would you evaluate the financial impact?
+239. How would you implement a transformation program in a PE-backed company? What KPIs would you track?
+240. Explain the concept of "best practices" sharing across a PE portfolio. How would you systematize this?
+241. A PE firm acquired a company 3 years ago at 6x EBITDA for $300M with 60% leverage. EBITDA has grown to $75M. If the exit multiple is 8x, what is the IRR?
+242. Explain the relationship between exit timing and returns. How would you decide when to sell?
+243. A company can be exited via strategic sale, secondary sale (to another PE firm), or IPO. What are the pros and cons of each?
+244. An IPO is planned for a PE-backed company, but market conditions deteriorate. How would you adjust the exit timeline?
+245. A strategic buyer emerges for a PE-backed company at 9x EBITDA. How would you evaluate this against holding for a year?
+246. Explain the concept of "exit readiness." What preparation would you do pre-exit?
+247. A company's leverage is still 4x at the targeted exit date. What options exist to complete the exit?
+248. How would you model the impact of earnout terms on exit returns?
+249. A management team wants to stay involved in the company post-exit through a management continuation plan. How would you structure this?
+250. Explain the concept of "carry" in PE. How does the distribution of carry affect fund returns and GP incentives?
+251. A secondary PE investor is purchasing a fund's position in a PE-backed company. How would you value this transaction?
+252. How would you compare the returns of a strategic exit (to an operating company) vs. a financial exit (to another PE firm)?
+253. A company has achieved significant growth, but the multiple has compressed due to market conditions. How would you still achieve target returns?
+254. Explain the concept of "dividend coverage." What factors affect the ability to pay dividends?
+255. How would you analyze the tax efficiency of different exit structures?
+256. A PE fund has invested in 15 companies with varying returns. How would you manage the portfolio to optimize overall fund returns?
+257. Explain the concept of "dry powder." How much reserve should a PE fund maintain for follow-on investments?
+258. A PE fund's largest investment is underperforming. Should you invest more capital (support) or write down the position?
+259. How would you allocate capital across multiple investments to optimize the portfolio's return profile?
+260. A PE fund has a target IRR of 25% and a target MOIC of 3x. Are these consistent, and over what time period?
+261. Explain the concept of "fund aging." How does the progression from early investments to mature investments affect cash flows?
+262. A PE fund is considering a major add-on acquisition for its largest platform company. How would you evaluate the impact on fund returns?
+263. How would you benchmark a PE fund's performance against peer funds and public markets?
+264. A PE fund is between funds (moving from Fund III to Fund IV). How would you manage the transition?
+265. Explain the concept of "step-downs" in PE fees. How do they affect GP-LP alignment?
+266. A PE fund has written off 30% of its portfolio (invested capital). How does this affect projected fund returns?
+267. How would you manage portfolio company board meetings to drive performance?
+268. A portfolio company requires a significant additional investment due to market disruption. Should the fund invest or let it fail?
+269. Explain the concept of "clawback." When would a GP owe clawback to LPs?
+270. How would you decide between increasing your stake in a winner (follow-on) vs. deploying capital to new investments?
+271. A family office business (founder-led, non-public) is being acquired by a PE firm. How would you structure the deal to maintain founder involvement?
+272. A turnaround situation requires significant operational changes and cost reduction. How would you approach this?
+273. A public company is being taken private in an LBO. What regulatory approvals are required, and what adjustments would you make to the model?
+274. A distressed company is being acquired out of bankruptcy. How would you model the impact on equity value and PE returns?
+275. A company operates in a highly regulated industry (healthcare, financial services). How would you structure the PE investment?
+276. A platform company is being built through add-on acquisitions. How would you model the revenue and cost synergies?
+277. A company has significant customer concentration (top 3 customers = 60% of revenue). How would you assess this risk and manage it?
+278. A PE firm is acquiring a company with significant pension obligations. How would this affect the deal valuation?
+279. Explain the concept of "tuck-in" acquisitions in PE. How do they differ from larger add-ons?
+280. A company is in a sunset industry (declining market demand). How would you evaluate the investment thesis?
+281. A company has key person risk (founder/CEO is critical to success). How would you mitigate this?
+282. A hostile acquisition of a PE-backed company emerges. How would you evaluate the takeover threat and options?
+283. A company is being acquired with seller financing (earn-out + seller note). How would you model the risk and returns?
+284. A PE firm is acquiring a competitor to an existing portfolio company. How would you approach the integration?
+285. A company's supply chain is heavily dependent on one geographic region facing geopolitical risk. How would you assess this?
+286. A PE firm is considering an LBO of a high-growth tech company currently valued at $500M. The target has $50M EBITDA, growing at 30% YoY. Design the entire investment thesis: valuation, leverage strategy, operational improvements, and exit strategy.
+287. A hedge fund runs a long/short equity strategy across 50 positions. A major sector correction occurs, and the fund's hedges are underwater. How would you rebalance the portfolio to manage risk?
+288. A VC fund is evaluating two Series B opportunities: Startup A (early-stage, high risk, 10x+ potential) vs. Startup B (mature, lower risk, 3x potential). How would you decide?
+289. A distressed debt fund is analyzing a company in Chapter 11 bankruptcy with claims in senior debt, subordinated debt, and equity. How would you model recovery scenarios?
+290. A systematic hedge fund discovers a profitable trading signal but it's only available to 5% of the market during illiquid hours. What are the practical considerations for implementation?
+291. A PE-backed SaaS company is experiencing CAC inflation. Design an operational improvement plan to restore unit economics.
+292. A macro hedge fund is positioning for a potential recession. Design a portfolio strategy that profits during downturns while minimizing upside opportunity cost.
+293. A PE secondary fund is acquiring a fund position in a mature tech company. How would you value the position and forecast returns?
+294. A hedge fund is considering a merger arbitrage position in a deal with 40% spread but significant regulatory risk. How would you model the probability-adjusted returns?
+295. A VC-backed startup is raising a Series C but is experiencing declining growth rates. How would you assess valuation and fund allocation?
+296. A PE firm is creating a platform company through an LBO, planning 3 major add-on acquisitions. Model the value creation from both financial leverage and operational synergies.
+297. A hedge fund runs a volatility arbitrage strategy. The market experiences a major shock, and implied volatility spikes. How would you manage mark-to-market losses and tail risk?
+298. A distressed investor is analyzing a turnaround situation. Model the required EBITDA growth, margin improvement, and leverage reduction needed to achieve a 20% IRR.
+299. A VC firm is developing a thesis on climate tech startups. Design the due diligence framework, key metrics, and exit scenarios.
+300. A PE fund is evaluating a dividend recapitalization opportunity. Model the impact on leverage, cash flow, and exit returns. What are the risks?
