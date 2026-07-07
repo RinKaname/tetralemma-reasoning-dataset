@@ -12,6 +12,7 @@ The dataset contains deep, intersectional dilemmas across diverse domains such a
 - `tetralemma-reasoning-train.csv` / `.parquet` — The primary training dataset containing both the complex questions and the structured, 6-tag Tetralemma reasoning answers.
 - `tetralemma-reasoning-test.csv` / `.parquet` — The testing dataset containing **only the questions**, used for direct model evaluation and benchmarking.
 - `solution/solution.csv` / `.parquet` — The complete evaluation dataset containing the test questions mapped to their ground-truth Tetralemma reasoning answers.
+- `sample_submission.csv` — A template file demonstrating the expected format for competition submissions. It contains all test questions paired with placeholder XML reasoning blocks.
 
 ## Features
 
